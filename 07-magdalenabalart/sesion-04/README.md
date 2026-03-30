@@ -1,4 +1,27 @@
 # sesion-04
+
+Topic MQTT:
+broker mqtt protocolo de comunicación muy liviano para que dispositivos se manden mensajes entre sí por red
+
+3 partes claves 
+1. Publisher
+2. Subscriber
+3. Broker
+
+Claude shannon theory of communication 
+
+
+
+
+
+
+
+
+
+
+
+
+
 **son apuntes para no perder ideas**
 
 Proyecto solemne 01 grupo Amistad es Amigo  
