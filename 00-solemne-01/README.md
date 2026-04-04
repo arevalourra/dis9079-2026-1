@@ -80,7 +80,9 @@ este es el desglose:
 
 para los puntos 5. y 6. se evaluará la profundidad de la investigación, la claridad de la documentación y el esfuerzo demostrado en la investigación. se escribe en los archivos `persona-01.md`,  `persona-02.md` y `persona-03.md`, donde cada estudiante debe plasmar la investigación realizada por y durante la solemne-01.
 
-## tutoriales para empezar
+## tutoriales para la solemne-01
+
+aquí van tutoriales técnicos sobre cómo usar Adafruit IO para la solemne-01, los revisaremos también el lunes en clase, pero también feliz de conversar vía discord en cualquier momento en el canal de `#solemne-01`, les pido eso sí etiquetarme a mí @montoyamoraga y a @mateo.
 
 ### sobre Adafruit IO
 
@@ -88,7 +90,7 @@ usaremos Adafruit IO para enviar información entre dos placas distintas conecta
 
 - tutorial de Adafruit IO: <https://learn.adafruit.com/adafruit-io-basics-feather-m0-wifi/overview>
 
-## sobre instalación en tu computadora
+### sobre instalación en tu computadora
 
 instalaremos la biblioteca de Adafruit IO para Arduino.
 
@@ -102,7 +104,7 @@ para instalarla en nuestro software `Arduino IDE`, debemos seguir los siguientes
 - seleccionar la biblioteca `Adafruit IO Arduino` y hacer clic en el botón `Install`. en abril 2026 la versión más reciente es la `4.3.4`, les recomiendo instalar esa o una más reciente.
 - al momento de instalar, el software te preguntará si quieres instalar las otras bibliotecas que necesita `Adafruit IO Arduino` para funcionar correctamente. es muy importante que ACEPTES y SÍ las instales. es tan importante que lo escribí en mayúsculas.
 
-## sobre la cuenta de Adafruit IO
+### sobre la cuenta de Adafruit IO
 
 - ingresar a <https://io.adafruit.com/> y crear una cuenta gratuita.
 - te pido por favor usar tu correo udp, para poder identificarte fácilmente en el curso.
@@ -110,12 +112,28 @@ para instalarla en nuestro software `Arduino IDE`, debemos seguir los siguientes
 - al hacer inicio de sesión, en la esquina superior derecha hay un ícono de una llave con fondo amarillo, si haces click en ella podrás ver tus credencias.
 - es muy importante que NO compartas tus credenciales, que NO las subas a github. si quieres compartirlas con tu grupo, hazlo por privado, por ejemplo a través de un mensaje por correo electrónico. si las subes a github, cualquiera podría usarlas y eso podría generar problemas de seguridad para tu cuenta.
 
-## sobre la cuenta que usaremos
+### sobre la cuenta que usaremos
 
 yo pagué por el plan anual como parte de mi labor de enseñanza del curso, y les compartiré mis claves para que puedan usar mi cuenta durante el semestre.
 
 las publicaré en discord, en el canal de `#solemne-01`, para que puedan acceder a ellas y usarlas durante el semestre. por favor, usen estas claves con responsabilidad y no las compartan con nadie fuera del curso, ni tampoco las suban a github.
 
-## sobre las primeras pruebas de enlazar con la nube
+### sobre cómo enviar info a la nube desde tu placa
 
+les subí a cada carpeta de cada grupo de la solemne-01 un código de ejemplo para enviar info a Adafruit IO.
 
+este código tiene 2 archivos:
+
+1. archivo principal `.ino` con el codigo y muchisimos comentarios que traduje para explicarles en español lo que hace cada sección.
+2. archivo de apoyo `config.h` donde hay que reemplazar 4 valores:
+
+- `IO_USERNAME` con el nombre de usuario de tu cuenta de Adafruit IO.
+- `IO_KEY` con la clave de tu cuenta de Adafruit IO.
+- `WIFI_SSID` con el nombre de tu red wifi.
+- `WIFI_PASS` con la contraseña de tu red wifi.
+
+este código es un ejemplo básico para enviar información a Adafruit IO, y es un buen punto de partida para que puedan empezar a experimentar con esta plataforma. les recomiendo que lo prueben y lo modifiquen para entender mejor cómo funciona.
+
+si usan mi usuario y clave, les recomiendo que modifiquen el nombre del feed al que envían la información, para evitar que todos los grupos estén enviando información al mismo feed y se genere un caos de datos.
+
+también pueden usar su propia cuenta de Adafruit IO, si prefieren, pero recuerden que deben mantener sus credenciales en privado y no compartirlas ni subirlas a github.
