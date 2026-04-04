@@ -16,13 +16,29 @@ En la sección inferior aparecen muchos links, pero el que nos sirve en éste ca
 
 ![Listado de guías dentro de Adafruit IO](./imagenes/link-tutorial.jpeg)
 
-Adafruit nos ofrece toda esta lista de guías rápidas para que podamos empezar con nuestros proyectos, pero en éste caso el que seleccionaremos es el que dice ``Getting Started With Arduino``
+Adafruit nos ofrece toda esta lista de guías rápidas para que podamos empezar con nuestros proyectos, pero en éste caso el que seleccionaremos es el que dice ``Getting Started With Arduino``.
+
+### Paso 1
+
+Como nuestro primer paso se nos indica buscar el "Administrar Biblioteca", que se puede acceder de la manera que se muestra en la foto o también puedes seleccionar los libros que salen al costado izquierdo de la pantalla y será exactamente lo mismo.
 
 ![Indicación de dónde se encuentra el "Library Manager"](./imagenes/libreria-arduino.jpeg)
 
+### Paso 2
+
+Como segundo paso se nos indica escribir en el buscador "Adafruit MQTT" e instalar la opción que dice "Adafruit MQTT Library".
+
 ![Primera instalación de biblioteca](./imagenes/primera-descarga.jpeg)
 
+### Paso 3
+
+Como tercero paso se nos indica escribir en el buscador "ArduinoHTTPClient" e instalar la versión más actual.
+
 ![Segunda instalación de biblioteca](./imagenes/segunda-descarga.jpeg)
+
+### Paso 4
+
+Como cuarto y último paso se nos indica escribir en el buscador "Adafruit IO Arduino" e instalar la última versión de éste. Al momento de seleccionar la opción de instalar, te saldrá un anuncio que dice que para que ésta biblioteca funcione debes instalar todo el listado que menciona, en lo cual debemos aceptar y se empezarán a instalar todos los archivos de manera autónoma.
 
 ![Tercera instalación de biblioteca](./imagenes/tercera-descarga.jpeg)
 
