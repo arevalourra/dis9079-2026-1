@@ -17,6 +17,7 @@ Usaremos un nuevo microcontrolador (Raspberry pi / Pico 2 W) donde solo recibire
 ### Microcontrolador: Raspberry Pi Pico 2 W
 
 - La fundación inglesa Raspberry Pi partió lanzando computadores en el 2009. No tiene periféricos (no mouse, etc). Raspberry Pi lanzó su propio chip microcontrolador, el RP2040 y la sucesora RP2050, que son el corazón de las placas Raspberry Pi Pico y Raspberry Pi Pico 2 respectivamente.
+- La Raspberry Pi Pico 2 W es una placa de desarrollo de microcontroladores de bajo costo y alto rendimiento, diseñada por Raspberry Pi. Es la segunda generación de su serie "Pico", destacando por integrar conectividad Wi-Fi 802.11n y Bluetooth 5.2. Basada en el nuevo chip RP2350, ofrece doble núcleo, mayor potencia y seguridad mejorada para proyectos IoT y electrónica.
 
 Personal Computer (PC)
 
@@ -71,6 +72,20 @@ Claude code: Ia para generar códigos
 - Build: es como el subproducto del final, donde hago cambios y ahí quedan
 - Lo importante es que tenga el: `nombre.cpp` (apretar el botón de hacerlo con c++)
 - Raspberry Pi, tiene un Main, todo lo que esta adentro de main ocurre,
+
+`Usaremos Visual Studio Code`
+
+Este funciona con C++ y con Phyton.
+
+### Folders
+- .vscode: Cosas que necesita nuestro compu
+- build: Compilados de, no lo tocamos
+- .gitignore: No se comparten
+- nombreDelArchivo.cpp: El archivo que creamos. (el importante)
+- CMakeLists.txt: Cosas que pasan, bacan x ti.
+- Arduino: Setup y Loop
+- Raspberry pi: Main -> Todo lo que esta dentro de main ocurre en ese orden.
+
 
 ### Ejemplo 
 
@@ -240,3 +255,23 @@ int main()
     }
 }
 ```
+
+## Rúbrica solemne 1 / 06-04
+
+la nota tiene 1 punto base más 6 puntos evaluados.
+
+`Individual:`
+
+1 punto por calidad de la presentación oral
+1 punto por bitácora personal textual y visual del trabajo en clases e investigación personal
+1 punto por aportes al README.md grupal de texto y visuales explicativas, por las referencias
+
+`Grupal:`
+
+1 punto por diagrama de flujo del proyecto
+1 punto por calidad del código fuente para enviar y para recibir
+1 punto por funcionamiento del sistema
+1 punto: el sistema puede enviar y recibir mensajes
+0.5 puntos: el sistema solamente envía o recibe mensajes
+0.3 puntos: intentos de enviar o recibir mensajes, aunque no funcionen
+0.0 puntos: los intentos no se entienden, no tienen comentarios, están desordenados
