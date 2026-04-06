@@ -19,3 +19,5 @@ https://learn.adafruit.com/assets/34840
 
 
 ![Lookphoto_79](https://github.com/user-attachments/assets/5dea1300-0d4e-480d-8db7-1fa023086be5)
+
+Lo ubique por su ultima coleccion "2026-27 A/W COLLECTION “GHOST”" en la que de fondo tenia una gran pantalla reproduciendo una escena de the ghost in the shell, y las prendas que iban pasando tenian ¨hilos blandos y textiles incrustados con  tecnologia LED_LCD" hechos en colab con MPLUSPLUS, ademas dice que pueden ser plegados y cosidos, lo cual llaman: camuflaje optico termico, puesto que las imagenes que se crean con el conjunto de mini luces led, va sincornizada con la pantalla de atras
