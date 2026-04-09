@@ -49,18 +49,18 @@ Cuando por fin subimos el código, nos salió un error en donde se menciona un p
 
 ## Aarón nos ayuda en el Lid
 
-![titulo](./imagenes/ayudadeaaronenlid.jpeg)
+![Aarón corrigiendo nuestro código](./imagenes/ayudadeaaronenlid.jpeg)
 
 
 ## Prueba sin potenciómetro
 
-![titulo](./imagenes/pruebaledsinpotenciometro.jpeg)
+![Circuito con LED en Arduino](./imagenes/pruebaledsinpotenciometro.jpeg)
 
-![titulo](./imagenes/pruebalederror.gif)
+![On/Off sin responder](./imagenes/pruebalederror.gif)
 
-![titulo](./imagenes/lednodeclarado.jpeg)
+![Error en código, LED no declarado](./imagenes/lednodeclarado.jpeg)
 
-![titulo](./imagenes/leddeclarado.jpeg)
+![Arreglo en declaración de LED](./imagenes/leddeclarado.jpeg)
 
 El proyecto que realizaremos consiste en la comunicación entre dos placas (Arduino Uno R4 Wifi - Raspberry Pi Pico 2W) conectadas a distintos computadores mediante internet (llamado "si"), utilizando Adafruit IO como intermediario. La idea principal de nuestro proyecto es enviar información desde un dispositivo físico y representarla en otro en tiempo real. 
 
