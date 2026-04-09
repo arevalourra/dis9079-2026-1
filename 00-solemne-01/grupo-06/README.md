@@ -64,7 +64,7 @@ Cuando por fin subimos el código, nos salió un error en donde se menciona un p
 
 ## Aarón nos ayuda en el LID
 
-Como 
+Como no logramos solucionar el error del puerto, fuimos al LID a ver si alguien nos podía ayudar y nos encontramos a Aarón, por lo que le pedimos revisar cuál era el problema. Cuando le explicamos el problema, pidió ver primero el código que envía ya que eso era lo primero que teníamos que hacer funcionar, por lo que le mostramos lo que teníamos en Arduino IDE y nos corrigió el Key de Adafruit IO para que se pueda conectar bien, y aparte cambió el nombre del Feed a algo más formal que en este caso fue ``nicolasvaldesgreve-potenciador``, ya que así es más fácil identificar a la persona por el nombre de Github.
 
 ![Aarón corrigiendo nuestro código](./imagenes/ayudadeaaronenlid.jpeg)
 
