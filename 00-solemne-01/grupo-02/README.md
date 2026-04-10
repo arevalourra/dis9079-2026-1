@@ -17,6 +17,8 @@ lo más bonito es lo que pasa cuando el arduino recibe la señal desde esta nube
 en conclusion friendshipisfriend nos enseñó que todo esto tambien es una forma de expresion. logramos que herramientas muy desconocidas para nosotros como el protocolo mqtt y el procesador de arduino trabajen juntos para enviar un mensaje de afecto a traves de codigos. este proyecto es la prueba de que con un poco de programación, de imaginación podemos acortar cualquier distancia y recordarles a nuestros amigos que siempre estamos ahí para ellos.
 
 ![imagenes](./imagenes/completo-amistad-es-amigo.jpeg)
+
+bajoncito para celebrar nuestro logro!1!1!!1
 ## materiales usados en solemne-01
 
 ## código usado con Adafruit IO
