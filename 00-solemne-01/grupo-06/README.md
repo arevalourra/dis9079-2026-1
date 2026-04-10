@@ -10,7 +10,7 @@
 
 ## Descripción del proyecto
 
-El proyecto que realizaremos consiste en la comunicación entre dos placas Arduino UNO R4 WiFi conectadas a distintos computadores mediante internet (llamado "si"), utilizando Adafruit IO como intermediario. La idea principal de nuestro proyecto es enviar información desde un dispositivo físico y representarla en otro en tiempo real. 
+La idea principal de nuestro proyecto es poder enviar información desde una placa Arduino R4 WiFi a otra de manera inalámbrica utilizando WiFi, por lo cual haremos que una placa envíe la orden de encender y apagar un LED que está conectado a la otra placa mientras usamos a Adafruit IO como intermediario.
 
 En este caso, los componentes que utilizamos son:
 
@@ -65,6 +65,8 @@ Cuando por fin subimos el código, nos salió un error en donde se menciona un p
 ![Error de puerto en Raspberry Pi Pico 2 W](./imagenes/error-arduinoide.jpeg)
 
 ## Sistema Enviar - Proyecto Final
+
+
 
 ---
 
