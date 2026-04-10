@@ -60,15 +60,19 @@ Los primeros prototipos de los guantes se crearon en base a las experimentacione
 Para llegar al resultado que tenemos hoy, Mitchell modificó guantes de fibra óptica que en ese tiempo eran desarrollados para la industria de los video juegos, y los programó teniendo en cuenta los movimientos de Heap. En los guantes se encuentran unos chips que contienen acelerómetros y magnetómetros, los cuales son capaces de generar información precisa sobre la posición de las manos y la velocidad de éstas, incluyendo ocho sensores de flexión que pueden medir la curvatura de los dedos:
 
 - Pulgar
-- Índice proximal
-- Índice distal
-- Medio proximal
-- Medio distal
-- Anular proximal
-- Anular distal
+- Índice _proximal_
+- Índice _distal_
+- Medio _proximal_
+- Medio _distal_
+- Anular _proximal_
+- Anular _distal_
 - Meñique
 
+En el pulgar y en el meñique tienen un solo sensor de flexión mientras que en los otros dedos tienen dos, en donde el que está más cerca a la punta se denomina _distal_ y el más cercano a la muñeca se llama _proximal_.
+
 Para usar los guantes crearon el software **Glover**, el cual se utiliza para componer y performar música utilizando el movimiento de los guantes MiMU.
+
+
 
 ---
 
