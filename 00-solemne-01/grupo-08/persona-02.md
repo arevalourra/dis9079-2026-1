@@ -103,12 +103,6 @@ Mis Observaciones Técnicas (Lo que aprendí en el proceso):
     Que las credenciales (AIO Key y Username) en el código sean las correctas para entrar al mismo "buzón" en la nube.
 
 Resultados:
-
-
-
-
-
-
 <div align="center"> <video src="https://github.com/user-attachments/assets/20e565f9-6a12-4114-818b-a9c23fc3dd31" width="600" controls> Tu navegador no soporta el elemento de video. </video> <p><i><b>Evidencia Final:</b> Handshake exitoso entre nodos. El Arduino receptor dibuja el número enviado desde la nube en tiempo real.</i></p> </div>
 
 ## Mi Profundización Personal: El "Efecto Flash" ⚡
@@ -273,6 +267,10 @@ void leerMensaje(AdafruitIO_Data *data) {
 }
 ```
 Resultados: 
+
+
+
+<div align="center"> <video src="https://github.com/user-attachments/assets/d06eaad2-e06d-447d-8449-0a92ef80aa91" width="600" controls> Tu navegador no soporta el elemento de video. </video> <p><i><b>Evidencia Final:</b> Handshake exitoso entre nodos. El Arduino receptor dibuja el número enviado desde la nube en tiempo real.</i></p> </div>
 
 
 ¿Cómo lo logré? :
