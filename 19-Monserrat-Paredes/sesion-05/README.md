@@ -450,6 +450,7 @@ Dibujo de la contaminación (problematica)
 
 Informacion sobre bio: https://gilbertoesparza.net/bio/
 
+
 Proyecto: https://gilbertoesparza.net/portfolio/plantas-nomadas/ 
 
 Video descriptivo: https://www.youtube.com/watch?v=US9q2ayKANk&t=2s 
