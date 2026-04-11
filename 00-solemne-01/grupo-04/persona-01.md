@@ -1,4 +1,5 @@
 # persona-01
+# Antonella Lavalle
 
 investigaciones individuales
 
@@ -102,12 +103,12 @@ Tipos de obras que hace.
 
 <img width="665" height="356" alt="image" src="https://github.com/user-attachments/assets/ef4a5584-97c9-4634-a408-e85405b5580c" />
 
-+ Messa di Voce complementa el habla, los gritos y las canciones de dos vocalistas con visualizaciones interactivas en tiempo real. El proyecto aborda temas como la comunicación abstracta, las relaciones sinestésicas, el lenguaje de los dibujos animados y los sistemas de escritura y puntuación, todo ello dentro del contexto de una narrativa audiovisual sofisticada, lúdica y virtuosa. Un software personalizado transforma cada matiz vocal en gráficos complejos, sutilmente diferenciados y altamente expresivos. Messa di Voce se sitúa en la intersección de los extremos de la interpretación humana y tecnológica, fusionando la espontaneidad impredecible y las técnicas vocales extendidas de los improvisadores humanos con las últimas tecnologías de visión artificial y análisis del habla. Completamente sin palabras, pero profundamente verbal, Messa di Voce está diseñada para provocar preguntas sobre el significado y los efectos de los sonidos del habla, los actos de habla y el entorno inmersivo del lenguaje.
++ Messa di Voce combina la voz humana (habla, canto y sonidos) con visualizaciones interactivas en tiempo real, donde un software transforma los matices vocales en gráficos expresivos. La obra explora temas como la comunicación, la sinestesia y el lenguaje, situándose entre la interpretación humana y la tecnología. A través de esta fusión, genera una experiencia audiovisual que reflexiona sobre el significado y los efectos del sonido y el lenguaje en un entorno inmersivo.
 
-+ La obra evidencia la invisibilidad de la infraestructura tecnológica, ya que los participantes interactúan únicamente a través de la voz, sin la presencia de dispositivos visibles ni de interfaces tradicionales. Esto se relaciona con la idea de computación inalámbrica entendida como un sistema integrado al entorno, donde la tecnología deja de ser evidente y pasa a operar de manera transparente dentro de la experiencia.
++ La obra evidencia la invisibilidad de la infraestructura tecnológica, ya que la interacción se realiza únicamente mediante la voz, sin dispositivos visibles, lo que se vincula con la computación inalámbrica como un sistema integrado y transparente en el entorno.
 
-+ Messa di Voce funciona mediante un flujo continuo de datos en tiempo real, en el cual la voz es capturada, analizada y transformada inmediatamente en visualizaciones. Este proceso responde a la lógica de los sistemas inalámbricos actuales, donde los datos se capturan, transmiten y procesan de manera constante y sin interrupciones.
++ Messa di Voce funciona a través de un flujo continuo de datos en tiempo real, donde la voz es capturada, procesada y transformada inmediatamente en visualizaciones, siguiendo la lógica de los sistemas conectados actuales.
 
-+ Asimismo, la obra propone una interacción continua y no discreta. A diferencia de las interfaces tradicionales, basadas en acciones puntuales como presionar un botón, aquí la voz opera como un flujo permanente de información que influye directamente en el comportamiento del sistema. Esto es coherente con los entornos conectados, donde los datos circulan de forma constante.
++ Además, propone una interacción continua, en la que la voz actúa como un flujo constante de información que modula el sistema, en contraste con interfaces basadas en acciones puntuales.
 
-+ Por otra parte, se establece una relación directa entre el cuerpo, el sistema y el espacio. La voz del usuario no solo activa el sistema, sino que también transforma el entorno visual en tiempo real, generando un espacio reactivo. De esta manera, la obra refleja una concepción de la computación como una capa activa del entorno, propia de la computación ubicua.
++ Finalmente, establece una relación directa entre cuerpo, sistema y espacio, donde la voz no solo activa el sistema, sino que transforma el entorno en tiempo real, configurando un espacio reactivo propio de la computación ubicua.
