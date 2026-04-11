@@ -38,8 +38,6 @@
 
 ## investigaciones individuales
 
-rellenar en el mismo orden que los integrantes del grupo
-
 [agustinaaceituno](./persona-01.md)
 
 [persona-02.md](./persona-02.md)
