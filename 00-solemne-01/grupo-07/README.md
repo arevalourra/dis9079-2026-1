@@ -46,7 +46,15 @@ Creamos un feed en Adafruit IO con el nombre de led-control y un Dashboard vincu
 - 1 pin LED 
 - 1 OHM resistor de 220
 - 1 cable Dupont M/M
-  
+
+| Componente | Cantidad | Valor Unidad | Link |
+| --- | --- | --- | --- |
+| Protoboard 400 puntos | 1 | $2.100 | <https://prodelab.cl/productos/didacticos/nivel-superior-y-ensenanza-media/robotica-y-programacion/accesorios-robotica-y-programacion/protoboard-breadboard-400-pines/?utm_source=Google%20Shopping&utm_campaign=Google%20Shopping&utm_medium=cpc&utm_term=adtribes&srsltid=AfmBOooQXrc0i240CS5O9AUC5AUSqcPz3Hrk2lJyRK-PgMDmejZeipjTcFg>
+| Pin LED | 1 | $70 |<https://afel.cl/products/diodo-led-5mm-ultrabrillante-blanco?pr_prod_strat=e5_desc&pr_rec_id=3de401054&pr_rec_pid=8382019731608&pr_ref_pid=8382019600536&pr_seq=uniform>|
+| Ohm resistor de 220 | 1 | $413 | <https://altronics.cl/pack-10-resistencias-220ohm-025watt-1porciento> |
+| Cables Dupont | 1 | $65 | <https://mcielectronics.cl/shop/product/cable-dupont-macho-macho-20cm-pack-40-unidades/?srsltid=AfmBOooI8-36HQsjC83sDGqLy-uZ_ht-tuw0nwyKZnloJfamdRdmCWYI> |
+| Arduino UNO R4 WiFi | 1 | $38.990 | <https://arduino.cl/producto/arduino-uno-r4-wifi/?srsltid=AfmBOopJcCsivMRX00i4ZKVCJATlhSM2Bc6SCRhEdXzw6r1x08Ui9740> |
+
 ## código usado con Adafruit IO
 
 ### código para enviar
@@ -157,3 +165,10 @@ rellenar en el mismo orden que los integrantes del grupo
 [persona-03.md](./persona-03.md)
 
 ## Bibliografía
+
+Adafruit IO https://learn.adafruit.com/adafruit-io/arduino
+Adafruit IO overview https://io.adafruit.com/vxlentiinaa/overview
+Arduino libraries Adafruit IO https://docs.arduino.cc/libraries/adafruit-io-arduino/
+Github Adafruit IO https://github.com/adafruit/Adafruit_IO_Arduino
+Adafruit IO basics color https://learn.adafruit.com/adafruit-io-basics-color
+Arduino cheat sheet http://docs.arduino.cc/tutorials/uno-r4-wifi/cheat-sheet/?utm_source=chatgpt.com
