@@ -54,6 +54,9 @@ WiFi = conecta todo
 
 ![foto](./imagenes/anaysadafruit.png)
 
+
+![foto](./imagenes/arduinoadafruit.png)
+
 ### prendizajes y dificultades
 
 Me cuesta entender los errores del código porque no son claros para mi aún y también fue difícil al inicio entender cómo se conectan Arduino, internet y la plataforma.
