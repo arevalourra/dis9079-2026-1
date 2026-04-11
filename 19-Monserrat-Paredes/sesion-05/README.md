@@ -83,8 +83,6 @@ Software utilizado:
 -Instalar versión 4.3.4 (abril 2026) o superior.
 
 
-![Arduino](./imagenes/Libreria arduino.png)
-
 <img width="445" height="386" alt="Libreria arduino" src="https://github.com/user-attachments/assets/d41cf0e5-0742-459a-81c9-512495ffe6f0" />
 
 
@@ -109,12 +107,15 @@ Software utilizado:
 Así se ve cuando creas la cuenta y configuraciones:
 
 
-![cuenta adafruit](./imagenes/iniciosesión.png)
+<img width="1244" height="785" alt="inicio sesion" src="https://github.com/user-attachments/assets/22641bc6-16a8-4bef-be95-4d321ec27b9f" />
+
 
 
 Después de crear la cuenta se ve así el inicio de sesión:
 
-![inicio adafruit](./imagenes/inicioio.png)
+
+<img width="1374" height="736" alt="inicio io" src="https://github.com/user-attachments/assets/176ee3ef-e288-40c9-aaba-d337fe1b199c" />
+
 
 
 ## Tener en cuenta por seguridad 
@@ -201,7 +202,9 @@ nombreFeed->save(contador);
 -Aparecían signos de interrogación (???)
 -Causa: baudios incorrectos
 
-![problema 1](./imagenes/signosdeinterogaciónarduino.png)
+
+<img width="621" height="530" alt="signos de interrogación arduino" src="https://github.com/user-attachments/assets/f9aefffe-a976-495b-8ea8-77d04a10206f" />
+
 
 
 ## Solución:
@@ -221,18 +224,22 @@ nombreFeed->save(contador);
 
 -El cableado o el contacto en la protoboard activó el sistema de Reset. Esto corta la corriente por un milisegundo y obliga al programa a empezar desde cero.
 
-![conexión](./imagenes/conexiones.jpge)
 
-![reset](./imagenes/botóndereinicio.gif)
+![conexiones](https://github.com/user-attachments/assets/6bfb2ee4-a20b-4b3c-a39b-f006728e982c)
+
+
+![boton reset](https://github.com/user-attachments/assets/9651f897-9fdf-4552-9906-e6e76dd1af50)
 
 
 
  Datos visualizados en Adafruit IO
  
-![grafico](./imagenes/prueba1grupo01.png)
+ 
+<img width="1470" height="956" alt="prueba 1 grupo01" src="https://github.com/user-attachments/assets/06febfc2-47be-4c84-9614-2be0a94c92ba" />
 
 
-##Código final funcional (Ya validado en clases)
+
+## Código final funcional (Ya validado en clases)
 
 -Envío de datos cada 3 segundos al presionar botón.
 
@@ -241,13 +248,14 @@ nombreFeed->save(contador);
 -Conexión estable a Adafruit IO.
 
 
-##Solución: Reasignación de Pines
+## Solución: Reasignación de Pines
 
 -Se movió la conexión del pulsador del pin A0 al Pin 1.
 
 -El conflicto eléctrico desapareció, permitiendo que el botón cumpliera su función real: enviar una señal digital que el Arduino procesa y transmite exitosamente a la nube en Adafruit IO.
 
-![solución](./imagenes/botonfunciona.gif)
+
+VIDEOOOOOO
 
 
 Adafruit IO para ver gráficos en tiempo real con los datos enviados.
