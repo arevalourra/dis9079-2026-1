@@ -4,6 +4,28 @@ investigaciones individuales
 
 ## sobre adafruit i/o
 
+Adafruit IO es un servicio en la nube de Adafruit, que sirve para desarrollar proyectos en IoT.
+
+Adafruit IO nos permite controlar dispositivos, sensores y monitorizar en IoT, sin necesidad de escribir códigos.
+
+Tiene muchas bibliotecas para distintos lenguajes, como Arduino, Python, etc.
+En Adafruit IO, se pueden visualizar datos en tiempo real e  interactuar con ellos,se puede también encender y apagar las luces y hasta controlar ajustes de temperatura.
+
+Pude crear una cuenta súper fácil m, solo había que seguir los pasos de la página. Después de hacerme una cuenta me puse a revisar que cosas tenía y que podía hacer, tiene varios tutoriales en la misma página, así que entender como ocuparía no fue tan difícil como creí.
+
+## Conceptos importantes
+
+* ### Feed
+  
+  * Nexo de unión para la tranferencia de datos entre el dispositivo IoT y Adafruit IO. 
+
+* ### Dashboard
+
+  * Panel de trabajo, con la versión gratuita vienen 5.
+
+* ### Blockly
+
+  * 
 
 
 ### sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
@@ -12,7 +34,7 @@ investigaciones individuales
 
 ![artista](imagenes/sara-ludy.jpeg) 
 
->**"I make art because it's the most natural way for me to understand fundamental aspects of being and what it means to be alive on our planet"**
+>*"I make art because it's the most natural way for me to understand fundamental aspects of being and what it means to be alive on our planet"*
 
 Sara Ludy es una artista interdisciplinaria estadounidense, combina diferentes medios y técnicas para realizar sus obras, utiliza la pintura digital, realidad virtual,sonido, páginas Web,instalaciones, animación entre otros .
 
@@ -34,7 +56,7 @@ imágenes que simulan fenómenos naturales.
 ![obra proyectada](imagenes/nube-acida-proyeccion.jpeg)
 
 Otra obra notable de Ludy es *"SubSurface Hell"*, para Bitforms Gallery.
-en esta instalación se distribuyen en el espacio imágenes personales de la vida cotidiana de Sara, fotos que venía recolectando desde el año 2000 y que tenía guardada en una carpeta con el nombre de *SubSurface Hell*, estás imágenes son reconocibles en forma, pero se desvinculan de sus experiencias y contextos originales.
+en esta instalación se distribuyen en el espacio imágenes personales de la vida cotidiana de Sara, fotos que venía recolectando desde el año 2000 y que tenía guardada en una carpeta con el nombre de *SubSurface Hell*, estás imágenes son reconocibles en forma, pero se desvinculan de sus experiencias y contextos originales,lo que les da un aire de incomodidad, ella en una entrevista ya había comentado que le inquieta el avance de la tecnología y el mundo que se ha creado debido a esta,supongo que a pesar de trabajar con la tecnología directamente también le preocupa hasta donde llegarán los avances de esta.Esto me recuerda a una de las primeras clases con Aaron, también mencionó que ya era suficiente con los avances que ya existen y que deberíamos parar.
 
 En la mayoría de sus obras Sara fusiona el uso de el software y el hardware para crear imágenes y animaciones,para simular fenómenos físicos, está artista logra transformar lo que se considera como inerte y frío en algo de aspecto orgánico, los componentes eléctricos pasan a ser parte de sus obras y no solo un medio para realizarlas.
 
